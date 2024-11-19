@@ -3,7 +3,7 @@
 ## Here is a little about me
 - Big music enjoyer, I enjoy all genres and languages (except metal, sorry)
 - Love sport activities, mainly volleyball, tennis and badminton
-- **Night Owl**: Into chill movie marathons, binge-watching series, and gaming till who-knows-when ( Enthusiastic League of Legends player )
+- **Night Owl**: Into chill movie marathons, binge-watching series, and gaming till who-knows-when
 - Engaged in hobby projects, exploring new coding challenges in free time
 
 ## Hosted projects
