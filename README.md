@@ -15,3 +15,5 @@
   - A booking platform where companies can add their institutions through a headless CMS, set up schedules with customizable slots, and allow users to easily book appointments
   - Frontend was built with Nuxt, Directus(headless CMS) was used for backend
   - Account for testing: daniel@gmail.com / daniel
+- WIP Project
+  - Currently working on a kpop related project using Nuxt, Directus(Headless CMS), GraphQL for fetching data and TailwindCSS for styling
