@@ -15,6 +15,9 @@
   - An album-collecting web app where users can gather albums and stickers by opening packs, adding stickers of different rarities to their collection, or auctioning high-rarity stickers for more tokens
   - Frontend was built with Nuxt, backend was built with Golang/Echo
   - Account for testing: tester123@gmail.com / Tester123!
+- [recipes](https://recipes-lemon-five.vercel.app/)
+  - Recipes website
+  - Frontend was built with Nuxt and later on will integrate Pruvious CMS which is based on Nuxt
 - [termini.si](https://termini-si.vercel.app/) (**mobile view only**)
   - A booking platform where companies can add their institutions through a headless CMS, set up schedules with customizable slots, and allow users to easily book appointments
   - Frontend was built with Nuxt, Directus(headless CMS) was used for backend
