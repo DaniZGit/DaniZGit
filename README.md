@@ -7,11 +7,10 @@
 - Engaged in hobby projects, exploring new coding challenges in free time
 
 ## Hosted projects
-- [qrumble.click](https://quick-tap-stage.vercel.app/)
+- [qrumble.click](https://quick-tap-stage.vercel.app/) (stage/pass)
   - A competitive reaction game where users can join quick games or create custom rooms, competing in 5 rounds to test their reaction times
   - Frontend was built with Nuxt, and the backend was powered by PocketBase, extended with Go for additional functionality
   - Features include leaderboards, custom avatars, and seamless multiplayer gameplay
-  - Account for testing: stage / pass
 - [stick.it](https://stick-it-teal.vercel.app/) (**mobile view only**)
   - An album-collecting web app where users can gather albums and stickers by opening packs, adding stickers of different rarities to their collection, or auctioning high-rarity stickers for more tokens
   - Frontend was built with Nuxt, backend was built with Golang/Echo
