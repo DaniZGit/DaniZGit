@@ -7,7 +7,7 @@
 - Engaged in hobby projects, exploring new coding challenges in free time
 
 ## Hosted projects
-- [qrumble.click](https://quick-tap-stage.vercel.app/) (stage/pass)
+- [qrumble.click](https://quick-tap-stage.vercel.app/) (**Access: stage/pass**)
   - A competitive reaction game where users can join quick games or create custom rooms, competing in 5 rounds to test their reaction times
   - Frontend was built with Nuxt, and the backend was powered by PocketBase, extended with Go for additional functionality
   - Features include leaderboards, custom avatars, and seamless multiplayer gameplay
